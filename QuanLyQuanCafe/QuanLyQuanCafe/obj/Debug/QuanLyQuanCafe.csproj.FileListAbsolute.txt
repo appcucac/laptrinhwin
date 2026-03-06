@@ -1,0 +1,13 @@
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Login.resources
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.MainForm.resources
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.QuanLyMoForm.resources
+D:\LapTrinhWindow\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.QuanLyLoaiMonForm.resources
